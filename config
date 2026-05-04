@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/SumanthPasupuleti/banking-cdc-pipeline.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = Sumanth Pasupuleti
+	email = sumanthpasupuleti2001@gmail.com
